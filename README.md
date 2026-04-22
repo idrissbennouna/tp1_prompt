@@ -68,8 +68,8 @@ Ce dépôt contient le Travail Pratique 1 (TP1) du cours de Systèmes Multi-Agen
 
 ## Auteur
 
-[Votre Nom] - Étudiant en Systèmes Multi-Agents  
-Contact : [votre.email@example.com]
+[idriss bennouna] - Étudiant en Systèmes Multi-Agents  
+Contact : [Idriss.Bennouna@emsi-edu.ma]
 
 ## Licence
 
